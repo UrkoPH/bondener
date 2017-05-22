@@ -21,7 +21,7 @@ PROGRAM FLOW
 
 Obtain the tight-binding hamiltonian from the Wannier90 code and DFT. 
 
-Copy the files 4kin.sh and 4kinFL.c into a working directory.
+Copy the files 4kin.sh and 4kin4_1.c into a working directory.
 
 Read the Fermi level from the DFT code and choose a k point grid. Edit the
 
